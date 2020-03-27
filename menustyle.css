@@ -1,0 +1,46 @@
+ul
+{
+list-style:none;
+width:700px;
+margin: auto;
+}
+
+ul li
+{
+float: right;
+width:90px;
+background:#FFB6C1;
+text-align:center;
+height:40px;
+line-height:40px;
+box-shadow:2px 3px 4px #000;
+font-weight:bold;
+}
+ul li a
+{
+color:#fff;
+text-decoration:none;
+display:block;
+
+}
+
+ul li a:hover
+{
+	background-color: white;
+	color: #ADD8E6;
+	border: 2px solid #ADD8E6;
+	border-radius: 12px;
+}
+
+.button4 {
+	border-radius: 12px;
+	background:#ADD8E6
+	}
+
+	
+.space
+{
+	background:none;
+	box-shadow:none;
+	width:20;
+}
