@@ -1,0 +1,46 @@
+nav ul
+{
+list-style:none;
+width:1000px;
+margin: 0 auto;
+}
+
+nav ul li
+{
+float:right ;
+width:110px;
+background:#FFB6C1;
+text-align:center;
+height:40px;
+line-height:40px;
+box-shadow:2px 3px 4px #999;
+font-weight:bold;
+}
+nav ul li a
+{
+color:#fff;
+text-decoration:none;
+display:block;
+
+}
+
+nav ul li a:hover
+{
+	background-color: white;
+	color: #ccccff;
+	border: 2px solid #ccccff;
+	border-radius: 15px 50px 30px;
+}
+
+.button4 {
+	border-radius: 15px 50px 30px;
+	background:#ccccff
+	}
+
+	
+.space
+{
+	background:none;
+	box-shadow:none;
+	width:40;
+}
